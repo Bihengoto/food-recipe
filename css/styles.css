@@ -45,15 +45,15 @@ body {
 
 #details-left {
   flex: 1;
-  color: #1ec672;
+  color: white;
 }
 
 #details-center {
   flex: 1;
-  color: #1ec672;
+  color: white;
 }
 
 #details-right {
   flex: 1;
-  color: #1ec672;
+  color: white;
 }
