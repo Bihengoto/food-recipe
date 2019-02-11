@@ -1,0 +1,59 @@
+body {
+  background-image: url("../images/plate2.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.head {
+  background-color: #f20505;
+  opacity: 0.7;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.head p {
+  color: #fbf8f8;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.plate1 img {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
+
+.section {
+  flex: 3;
+  height: 820px;
+  background-color: #f20505;
+  float: right;
+  margin-top: 30px;
+  opacity: 0.7;
+}
+
+#details {
+  display: flex;
+}
+
+#details-left {
+  flex: 1;
+  color: #1ec672;
+}
+
+#details-center {
+  flex: 1;
+  color: #1ec672;
+}
+
+#details-right {
+  flex: 1;
+  color: #1ec672;
+}
